@@ -1,0 +1,45 @@
+[{
+        "word": "programming",
+        "description": "Similar to Coding"
+    },
+    {
+        "word": "computer",
+        "description": "Device to Compute"
+    },
+    {
+        "word": "science",
+        "desctiption": "Branch of Study"
+    },
+    {
+        "word": "laravel",
+        "description": "Php Framework"
+    },
+    {
+        "word": "react",
+        "description": "Javascript Library"
+    },
+    {
+        "word": "angular",
+        "description": "Javascript Framework"
+    },
+    {
+        "word": "vue",
+        "description": "Javascript Framework"
+    },
+    {
+        "word": "vue",
+        "description": "Javascript Framework"
+    },
+    {
+        "word": "django",
+        "description": "Python Framework"
+    },
+    {
+        "word": "pygame",
+        "description": "Python Framework"
+    },
+    {
+        "word": "flask",
+        "description": "Python Framework"
+    }
+]
